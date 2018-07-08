@@ -9,8 +9,9 @@
     "primereact": "^1.5.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
     "react-scripts": "1.1.4",
-    "selenium-webdriver": "^4.0.0-alpha.1"
+    "redux": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

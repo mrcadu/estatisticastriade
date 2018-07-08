@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import { Chart } from 'primereact/components/chart/Chart';
 
-export class GraficoEquilibrio extends Component {
+export default class Grafico extends Component {
     render() {
         let data = {
             labels: this.props.labels,
@@ -37,3 +37,4 @@ export class GraficoEquilibrio extends Component {
         )
     }
 }
+
