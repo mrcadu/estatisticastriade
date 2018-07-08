@@ -6,6 +6,7 @@
     "chart.js": "^2.7.2",
     "classnames": "^2.2.5",
     "font-awesome": "^4.7.0",
+    "mysql": "^2.15.0",
     "primereact": "^1.5.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
