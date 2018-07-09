@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import { GraficoTriadeContainer } from '../containers/graficos/grafico-triade-container';
 import '../App.css';
+import GraficoTriade from '../containers/graficos/grafico-triade-container'
 
 
 class App extends Component {
     render() {
-        let labelsEquilibrio = ['importante','circunstancial','urgente' ];
-        return ()
+        return (<GraficoTriade/>)
     }
 }
 
